@@ -33,9 +33,9 @@ Don't hesitate to play around by using different images with the ESRGAN Rocket. 
 ## Outputs of the Rocket
 | Filename | Original | Improved | 
 |----------|----------|-----------|
-| `girl1.png` | ![image-original-girl1](images/girl1.png) | ![image-ssd-office](images/improved/girl1.png) |
-|`girl2.png`|![image-original-girl2](images/girl2.png)|![image-ssd-shop](images/detections/ssd/girl2.png)|
-|`lion.png`|![image-original-lion](images/lion.png)|![image-ssd-street](images/detections/ssd/lion.png)|
+| `girl1.png` | ![image-original-girl1](images/girl1.png) | ![image-improved-girl1](images/improved/girl1.png) |
+|`girl2.png`|![image-original-girl2](images/girl2.png)|![image-improved-girl2](images/improved/girl2.png)|
+|`lion.png`|![image-original-lion](images/lion.png)|![image-improved-lion](images/improved/lion.png)|
 
 ## Contact
 Any feedback or complaint from your neighbors about the noise your Rockets are making, please contact us at [hello@mirage.id](mailto:hello@mirage.id). 
