@@ -1,4 +1,4 @@
-# PyTorch Rocket ESRGAN Tutorial 1: The Magic Mirror
+# PyTorch Rocket ESRGAN - Tutorial 1: The Magic Mirror
     Have you ever wanted to test multiple Deep Learning models and compare their results very easily?
 
     Are you tired of picking a Deep Learning model just because it is the only one you are able to run?
