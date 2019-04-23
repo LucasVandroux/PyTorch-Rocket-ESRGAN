@@ -1,4 +1,4 @@
-# RocketHub Tutorial #0
+# RocketHub Tutorial 1
     Have you ever wanted to test multiple Deep Learning models and compare their results very easily?
 
     Are you tired of picking a Deep Learning model just because it is the only one you are able to run?
