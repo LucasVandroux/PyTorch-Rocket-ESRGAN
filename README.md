@@ -13,7 +13,7 @@ __Welcome to the Rockets Scientists Community!!!__
 We recommend you to use an isolated Python environement such as [virtualenv](https://virtualenv.pypa.io/en/latest/) or [conda](https://docs.conda.io/en/latest/) with at least __Python 3.5__. Then you can use the following lines of code:
 ```
 git clone https://github.com/LucasVandroux/PyTorch-Rocket-ESRGAN
-cd rockethub-tutorial0
+cd PyTorch-Rocket-ESRGAN
 pip install -r requirements.txt
 ```
 ### Install PyTorch
