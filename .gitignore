@@ -1,3 +1,10 @@
 .env*
 .venv*
+venv
+rockets
 out.png
+
+
+# ide
+.idea
+.vscode

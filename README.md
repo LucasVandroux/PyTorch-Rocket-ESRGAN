@@ -10,11 +10,11 @@ We are calling this new way of packaging Deep Learning models: __Rockets__.
 __Welcome to the Rockets Scientists Community!!!__
 
 ## Install the repositories
-We recommend you to use an isolated Python environement such as [virtualenv](https://virtualenv.pypa.io/en/latest/) or [conda](https://docs.conda.io/en/latest/) with at least __Python 3.5__. Then you can use the following lines of code:
+We recommend you to use an isolated Python environement such as [virtualenv](https://virtualenv.pypa.io/en/latest/) or [conda](https://docs.conda.io/en/latest/) with at least __Python 3.6__. Then you can use the following lines of code:
 ```
 git clone https://github.com/LucasVandroux/PyTorch-Rocket-ESRGAN
 cd PyTorch-Rocket-ESRGAN
-pip install -r requirements.txt
+pip install rocketbase
 ```
 ### Install PyTorch
 As the installation for PyTorch is different for each platform, you need to look at the [PyTorch installation guide](https://pytorch.org/get-started/locally/). Don't worry it is very simple, maximum 2 lines of codes :stuck_out_tongue_closed_eyes:

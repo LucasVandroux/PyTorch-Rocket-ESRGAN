@@ -1,7 +1,5 @@
 import torch
-from torch.autograd import Variable
-from torchvision import transforms
-from rockethub import Rocket
+from rocketbase import Rocket
 from PIL import Image
 
 # --- LOAD IMAGE ---
@@ -27,7 +25,7 @@ print('Super Resolution successful! ')
 
 # --- OUTPUT ---
 # Save the output to the disk
-img_out = model.postprocess(out)[0]
+img_out = model.postprocess(out)
 img_out_path = 'out.png'
 img_out.save(img_out_path)
-print('You can checkout the improved image at \'' + img_out_path +'\'.')
+print('You can checkout the improved image at \'' + img_out_path + '\'.')
